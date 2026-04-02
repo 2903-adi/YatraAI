@@ -1,0 +1,1 @@
+YatraAI: React+Vite travel planner with transport-only or vacation modes, one-way/return trips, city/date inputs, and a Live Board of recent searches. Includes Login & Sign Up pages with React Router, modern responsive UI (CSS), and integrates third-party travel APIs for live data.
